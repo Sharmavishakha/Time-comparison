@@ -27,7 +27,7 @@ For this we use matrices of size starting from 100 to 2000 and the time is in se
 <img width="300" alt="image" src="https://github.com/Sharmavishakha/Time-comparison/assets/130557043/6027c89a-ebac-4c5d-a350-745b6ca35c9c">
 
 ---
-### **5. Outcome**
+### **5. Result**
 ---
 Time comparison between different languages
 <br>C > C++ > Python > R > Matlab
